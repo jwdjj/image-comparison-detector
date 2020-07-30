@@ -4,10 +4,6 @@
 
 This is a web based application used to compare two datasets of images and generate the result in a csv format
 
-## Application
-
-You can access the application [here](https://master.dktfyu48edg30.amplifyapp.com/)
-
 ## Output format 
 
 | image1        | image2        | similar  | elapsed |
@@ -60,8 +56,7 @@ Note: make sure the path ends with '/'
 
 ### How to deploy the Web Application
 
-Currently it is using AWS - GitHub connectivity
-Customized pipeline as necessary or create one
+TBD
 
 ### File and Folder details
 
@@ -78,7 +73,7 @@ Customized pipeline as necessary or create one
 1. Regression Testing (especially for unexpected input and cases)
 2. Still missing some exception catch
 3. Compatibility testing
-4. Pipeline
+4. Pipeline for deployment (currently looking into AWS)
 5. Note how to use on the user-facing page how to use the app
 6. Custom uploaded database for user facing
 
