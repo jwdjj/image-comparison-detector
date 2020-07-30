@@ -41,8 +41,15 @@ Note:
 ### How to Run this Application
 
 #### Web-based application
-1. Once you have all of the depencies installed, run `python app.py`
-3. Open on your localhost on port 5000 on your browser `http://localhost:5000/`
+1. Run the following:
+```
+git clone https://github.com/jwdjj/image-comparison-detector
+
+cd image-comparison-detector
+```
+2. Install depdendencies.
+3. Once you have all of the depencies installed, run `python app.py`
+4. Open on your localhost on port 5000 on your browser `http://localhost:5000/`
 
 #### Console
 
